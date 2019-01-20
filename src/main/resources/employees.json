@@ -1,3 +1,14 @@
-[{"id":1,"trigramme":"BMA","prenom":"Benoit","nom":"Maudet","job":"Manager"},
-{"id":2,"trigramme":"AKO","prenom":"Alexis","nom":"Kohl","job":"Commercial"},
-{"id":3,"trigramme":"BMA","prenom":"Benoit","nom":"Maudet","job":"Manager"}]
+[
+{"id":1,"trigramme":"HBA","prenom":"Harold","nom":"Bahegne","job":"Responsable d'agence"},
+{"id":2,"trigramme":"BMA","prenom":"Benoit","nom":"Maudet","job":"Manager"},
+{"id":3,"trigramme":"MAC","prenom":"Marc","nom":"Coudray","job":"Commercial"},
+{"id":4,"trigramme":"HBA","prenom":"Harold","nom":"Bahegne","job":"Responsable d'agence"},
+{"id":5,"trigramme":"JBO","prenom":"Julien","nom":"Boyer","job":"Responsable d'agence"},
+{"id":6,"trigramme":"IKE","prenom":"Ibtissem","nom":"Kerboua","job":"Commercial"},
+{"id":7,"trigramme":"CHE","prenom":"Christian","nom":"Evstratii","job":"Commercial"},
+{"id":8,"trigramme":"JBO","prenom":"Julien","nom":"Boyer","job":"Responsable d'agence"},
+{"id":9,"trigramme":"HBA","prenom":"Alexis","nom":"Kohl","job":"Commercial"},
+{"id":10,"trigramme":"SSO","prenom":"Sofiane","nom":"Somai","job":"IT Consultant"},
+{"id":11,"trigramme":"JBO","prenom":"Julien","nom":"Boyer","job":"Responsable d'agence"},
+{"id":12,"trigramme":"AKO","prenom":"Alexis","nom":"Kohl","job":"Commercial"}
+]
