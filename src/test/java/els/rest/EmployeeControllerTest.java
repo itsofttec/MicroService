@@ -21,7 +21,7 @@ public class EmployeeControllerTest {
 	
 	   @Test
 	   public void testGetEmployeesWithUnicity() {
-		   int nbrEmployeesWithUnicity = 2;
+		   int nbrEmployeesWithUnicity = 8;
 		   String unicity = "trigramme";
 		   List<Employee> list = EmpContr.parseJsonFile(file);
 		   
@@ -34,7 +34,7 @@ public class EmployeeControllerTest {
 	   @Test
 	   public void testParseJsonFile() {
 			
-			int nbrEmployees = 3;
+			int nbrEmployees = 12;
 			
 			List<Employee> list = EmpContr.parseJsonFile(file);
 			assertTrue(list.size() >= nbrEmployees);
