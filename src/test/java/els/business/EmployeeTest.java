@@ -16,7 +16,7 @@ public class EmployeeTest {
 
 	@Test
 	public void testGetEmployees() {
-		int nbrEmployeesWithUnicity = 2;
+		int nbrEmployeesWithUnicity = 8;
 
 		// Récupération des ressources sur le serveur
 		ResponseEntity<Employee[]> response = this.restTemplate.getForEntity(API_EMPLOYEE_PATH, Employee[].class);
